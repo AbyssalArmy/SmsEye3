@@ -25,6 +25,6 @@
 
 ## Screenshots
 <p float="left">
-  <img src="/Images/Screenshot1.png" width="50%" />
-  <img src="/Images/Screenshot2.png" width="50%" />
+  <img src="/Images/Screenshot1.png" width="100%" />
+  <img src="/Images/Screenshot2.png" width="100%" />
 </p>
