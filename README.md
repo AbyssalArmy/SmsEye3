@@ -1,11 +1,11 @@
 <p align="center">
   <img src="/Images/banner.png" width="60%" />
 </p>
-<h3 align="center">Powerful tool to access android device incoming sms messages</h3>
+<h3 align="center">Powerful tool to access android device incoming SMS messages</h3>
 <h3 align="center"> ‏‏‎ ‎</h3>
 
 ## 〽️ About SmsEye3
-#### SmsEye3 is latest version of SmsEye series which is a tool to access incoming SMS messages of target device.
+#### SmsEye3 is the latest version of SmsEyeseries which is a tool to access incoming SMS messages of target device.
 #### In this version of SmsEye3 we switched admin interface from Telegram bot to live web panel.
 
 ## ❓ How it works
