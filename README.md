@@ -31,5 +31,5 @@
 </p>
 
 ## 💻 How to use
-### If you are willing to use this tool, join our Telegram channel and contact admin for more information:
+### If you are willing to use this tool, contact admin for more information:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abyssalarmy)
