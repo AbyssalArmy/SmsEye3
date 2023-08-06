@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/Images/banner.png" width="60%" />
 </p>
-<h3 align="center">Powerful tool to access android device incoming SMS messages</h3>
+<h3 align="center">Powerful tool to access android devices incoming SMS messages</h3>
 <h3 align="center"> ‏‏‎ ‎</h3>
 
 ## 〽️ About SmsEye3
