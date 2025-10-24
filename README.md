@@ -1,6 +1,26 @@
+
+<h1 align="center">⚠️ Project Archived</h1>
+
+<h3 align="center">
+  This project has been archived and moved to 
+  <a href="https://github.com/AbyssalArmy/SmsEye4" target="_blank">SmsEye4</a>, 
+  which is a newer and better version of SmsEye.  
+  All future updates will be made there regularly.
+</h3>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/AbyssalArmy/SmsEye4">
+    <img src="https://img.shields.io/badge/Go%20to%20SmsEye4-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="Go to SmsEye4"/>
+  </a>
+</p>
+
+
 <p align="center">
   <img src="/Images/banner.png" width="60%" />
 </p>
+
 <h3 align="center">Powerful tool to access android devices incoming SMS messages</h3>
 <h4 align="center">This tool is made for educational purposes only!</h4>
 <h3 align="center"> ‏‏‎ ‎</h3>
